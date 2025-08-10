@@ -1,4 +1,5 @@
 Okay, this one is meta. I'm using my brand voice to describe a bot that helps you keep *your* brand voice consistent. If this thing becomes self-aware, we're all in trouble.
+
 ## **Project: Brand Bot**
 
 A tool for keeping your brand voice consistent everywhere.
