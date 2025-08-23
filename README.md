@@ -1,4 +1,4 @@
-Praximous Brand Bot: The First Blueprint
+# Praximous Brand Bot: The First Blueprint
 
 The problem is simple: Your brand gets watered down when you copy-paste different messages across social media, blogs, and newsletters. It's a waste of time and mental energy. The solution is an honest tool that helps you stay consistent.
 
